@@ -1,0 +1,23 @@
+h1{
+color: black;
+font-family: 'Raleway', sans-serif;
+font-weight: 700;
+letter-spacing: 4px;
+}
+
+.search{
+background-color: #FFF;
+border: 1px solid #DDD;
+border-radius: 5px;
+margin: 0 auto;
+}
+
+.headings{
+background color: #1F5C70;
+font-family: cursive;
+font-weight: 600;
+}
+
+
+
+
